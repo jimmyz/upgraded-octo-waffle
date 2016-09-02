@@ -1,0 +1,22 @@
+{
+	"firstname": "Padme",
+	"middlename": "",
+	"surname": "Amidala",
+	
+	"birth": [
+		{ "date": "" },
+		{ "place": "Naboo" }
+	],
+
+	"spouse": [
+		""
+	],
+
+	"parents" : [
+		{ "father": "" },
+		{ "mother": "" }
+	],
+
+	"children": [	]
+
+}
