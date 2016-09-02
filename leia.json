@@ -1,0 +1,22 @@
+{
+	"firstname": "Leia",
+	"middlename": "",
+	"surname": "Organa",
+	
+	"birth": [
+		{ "date": "" },
+		{ "place": "Polis Massa" }
+	],
+
+	"spouse": [
+		""
+	],
+
+	"parents" : [
+		{ "father": "" },
+		{ "mother": "" }
+	],
+
+	"children": [	]
+
+}
