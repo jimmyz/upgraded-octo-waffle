@@ -9,12 +9,12 @@
 	],
 
 	"spouse": [
-		""
+		"https://raw.githubusercontent.com/jimmyz/upgraded-octo-waffle/master/han.json"
 	],
 
 	"parents" : [
 		{ "father": "" },
-		{ "mother": "" }
+		{ "mother": "https://raw.githubusercontent.com/jimmyz/upgraded-octo-waffle/master/leia.json" }
 	],
 
 	"children": [	]
