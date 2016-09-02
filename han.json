@@ -1,0 +1,27 @@
+{
+	"firstname": "Han",
+	"middlename": "",
+	"surname": "Solo",
+	
+	"birth": [
+		{ "date": "" },
+		{ "place": "Corellia" }
+	],
+  
+  "death": [
+    { "date": "" },
+    { "place": "Star Killer Base"}
+  ]
+
+	"spouse": [
+		""
+	],
+
+	"parents" : [
+		{ "father": "" },
+		{ "mother": "" }
+	],
+
+	"children": [	]
+
+}
