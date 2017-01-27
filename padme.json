@@ -3,6 +3,7 @@
 	"firstname": "Padme",
 	"middlename": "",
 	"surname": "Amidala",
+	"gender": "female",
 	
 	"birth": [
 		{ "date": "" },
