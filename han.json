@@ -3,7 +3,7 @@
 	"firstname": "Han",
 	"middlename": "Kylo",
 	"surname": "Solo",
-	
+	"gender": "male",
 	"birth": [
 		{ "date": "" },
 		{ "place": "Corellia" }
