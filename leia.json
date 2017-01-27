@@ -3,7 +3,7 @@
 	"firstname": "Leia",
 	"middlename": "",
 	"surname": "Organa",
-	
+	"gender": "female",
 	"birth": [
 		{ "date": "" },
 		{ "place": "Polis Massa" }
