@@ -1,8 +1,9 @@
 {
+	"id": "https://raw.githubusercontent.com/jimmyz/upgraded-octo-waffle/master/han.json",
 	"firstname": "Han",
-	"middlename": "",
+	"middlename": "Kylo",
 	"surname": "Solo",
-	
+	"gender": "male",
 	"birth": [
 		{ "date": "" },
 		{ "place": "Corellia" }

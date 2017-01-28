@@ -1,4 +1,5 @@
 {
+	"id": "https://raw.githubusercontent.com/jimmyz/upgraded-octo-waffle/master/leia.json",
 	"firstname": "Leia",
 	"middlename": "",
 	"surname": "Organa",
@@ -14,7 +15,7 @@
 
 	"parents" : [
 		{ "father": "https://raw.githubusercontent.com/misbach/DecentralizedDistributedGenealogy/master/starwars/anakin.json" },
-		{ "mother": "https://raw.githubusercontent.com/jimmyz/upgraded-octo-waffle/master/leia.json" }
+		{ "mother": "https://raw.githubusercontent.com/jimmyz/upgraded-octo-waffle/master/padme.json" }
 	],
 
 	"children": [	]
