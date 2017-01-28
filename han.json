@@ -3,6 +3,7 @@
 	"firstname": "Han",
 	"middlename": "Kylo",
 	"surname": "Solo",
+	"portrait": "http://img.cinemablend.com/cb/6/a/c/1/e/2/6ac1e2baea047095474246ada8b9d18c3531dc47faa3a581b2f513f510b8a3d1.jpg",
 	"gender": "male",
 	"birth": [
 		{ "date": "" },
